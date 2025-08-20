@@ -1,4 +1,4 @@
-# [Filipe Jose] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px">
+# Filipe Jose <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px">
 
 Eu sou <strong>Filipe</strong>, <strong>Tudo tranquilo?</strong> 👨🏻‍💻 
 
@@ -9,7 +9,7 @@ Eu sou <strong>Filipe</strong>, <strong>Tudo tranquilo?</strong> 👨🏻‍💻
 <div align="center">
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=filipej17&show_icons=true&theme=dark)
-<<<<<<< HEAD
+
 
 </div><div align="center">
 
